@@ -3,9 +3,9 @@ from discord.ext import commands
 from discord import app_commands
 
 TOKEN = "SEU_TOKEN"
-GUILD_ID = 1234567890
-CATEGORY_TICKETS = 1234567890
-ROLE_STAFF = 1234567890
+GUILD_ID = 1471849459016143087
+CATEGORY_TICKETS = 1471849459016143087
+ROLE_STAFF = 1472978889121726485
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="!", intents=intents)
